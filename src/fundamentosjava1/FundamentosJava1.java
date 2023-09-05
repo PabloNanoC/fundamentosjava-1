@@ -15,7 +15,23 @@ public class FundamentosJava1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       int edad= 37;
+       String nombre= "Pablo";
+       double salario= 200;
+       
+       
+    
+       
+       System.out.println("Nombre:"+ nombre);
+       System.out.println("Edad:"+ edad);
+       System.out.println("Salario:"+ salario);
+       
+       
+       
+       
+       
+       
+// TODOscode application logic here
     }
     
 }
